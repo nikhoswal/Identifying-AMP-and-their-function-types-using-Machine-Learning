@@ -8,8 +8,8 @@ Part 2:
 Developed using MEKA <br>
 Evalutaion Metrics - Meka Evaluation Info.txt
 
-
-**<center>CSI 5180. Topics in Artificial Intelligence</center>**
+<p align="center"> 
+**CSI 5180. Topics in Artificial Intelligence**
 
 **Machine Learning for Bioinformatics Applications**
 
