@@ -9,7 +9,7 @@ Developed using MEKA <br>
 Evalutaion Metrics - Meka Evaluation Info.txt
 
 
-**CSI 5180. Topics in Artificial Intelligence**
+**<center>CSI 5180. Topics in Artificial Intelligence</center>**
 
 **Machine Learning for Bioinformatics Applications**
 
@@ -54,7 +54,7 @@ In total we have 6989 instances with 2618 as AMPs and 4371 as Non-AMPs. This wil
 
 
 
-**Proposed Plan**
+**Project Plan**
 
 Below is the scope and proposed plan for the project.
 
@@ -64,14 +64,5 @@ Below is the scope and proposed plan for the project.
 4. As there are not many details on the test dataset extraction, I plan to use the 70:30 technique on the training dataset.
 5. Apply Random Forest and a new model to classify the sequence as AMP or Non-AMP. [Binary Classification]
 6. Performance Evaluation.
+7. Implement the second classifier; apply Random Forest for Multi-label classification using MEKA.
 
-If time persists, I can try and implement the second classifier.
-
-
-      _7.  Implement the second classifier; apply Random Forest for Multi-label classification._
-
-**Deliverables**
-
-- Report - A detailed report explaining the problem, data preprocessing techniques, different algorithms tried, experiments and discussion of the results.
-
-- Source Code - Source code for the models implemented along with the detailed instructions to rerun the analysis.
